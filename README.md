@@ -26,6 +26,7 @@
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/totallyrin)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/totallyrin)
 [![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)](https://github.com/totallyrin)
+[![Git](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)](https://github.com/totallyrin)
 
 <!-- ### OS
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/totallyrin) -->

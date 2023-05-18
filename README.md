@@ -35,18 +35,18 @@
   <a href="https://github.com/totallyrin">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=totallyrin&theme=github_dark" />
   </a>
-  <a href="https://github.com/totallyrin">
+<!--   <a href="https://github.com/totallyrin">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=totallyrin&border=1e2329&card_width=338&theme=github-dark-blue" />
-  </a>
+  </a> -->
   <a href="https://github.com/totallyrin">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=totallyrin&theme=github_dark" />
   </a>
   <a href="https://github.com/totallyrin">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=totallyrin&theme=github_dark" />
   </a>
-  <a href="https://github.com/totallyrin">
+<!--   <a href="https://github.com/totallyrin">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=totallyrin&theme=github_dark" />
-  </a>
+  </a> -->
 <!--   <a href="https://github.com/totallyrin">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=totallyrin&langs_count=10&exclude_repo=&layout=default&card_width=699&hide_border=true&theme=github_dark" />
   </a>

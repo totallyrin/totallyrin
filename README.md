@@ -10,7 +10,7 @@
 - 🌱 I’m a student studying Software Design
 - 🔭 I’m currently working on my Web Development skills
 - 💬 I love programming, gaming, and going on long hikes
-- ⚡ Currently focusing on JavaScript, TypeScript, Java and Python
+- ⚡ Currently focusing on JavaScript and Typescript
 
 ---
 ### Languages

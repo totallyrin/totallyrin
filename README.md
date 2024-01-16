@@ -1,6 +1,6 @@
 <div id="header" align="center">
   👋 Hi! I'm Lucy (she/her).
-  <br/><br/><img src="https://komarev.com/ghpvc/?username=totallyrin&style=flat-square&color=blue" alt=""/>
+  <br/><br/><a href="https://github.com/totallyrin"><img src="https://komarev.com/ghpvc/?username=totallyrin&style=flat-square&color=blue" alt=""/></a>
 </div>
 
 ---

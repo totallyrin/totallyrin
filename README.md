@@ -18,10 +18,12 @@
 [![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://github.com/totallyrin)
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/totallyrin)
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/totallyrin)
+[![Lua](https://img.shields.io/badge/python-black?style=for-the-badge&logo=lua)](https://github.com/totallyrin)
 
 ### Technologies & Frameworks
 
 [![NextJS](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js)](https://github.com/totallyrin)
+[![React](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=react)](https://github.com/totallyrin)
 [![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/totallyrin)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/totallyrin)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/totallyrin)

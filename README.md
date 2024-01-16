@@ -1,6 +1,6 @@
 <div id="header" align="center">
   👋 Hi! I'm Lucy (she/her).
-  <br/><br/><img src="https://komarev.com/ghpvc/?username=totallyrin&style=flat-square&color=blue" alt=""/>
+  <br/><br/><img src="https://komarev.com/ghpvc/?username=totallyrin&style=flat-square&color=red" alt=""/>
 </div>
 
 ---
@@ -44,10 +44,4 @@
   <a href="https://github.com/totallyrin">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=totallyrin&theme=github_dark" />
   </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/totallyrin">
-    <img src="https://komarev.com/ghpvc/?username=totallyrin&color=red&style=flat)" />
-  </a> -->
 </p>

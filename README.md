@@ -41,9 +41,7 @@
 <!--   <a href="https://github.com/totallyrin">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=totallyrin&border=1e2329&card_width=338&theme=github-dark-blue" />
   </a> -->
-  <a href="https://github.com/totallyrin">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=totallyrin&theme=github_dark" />
-  </a>
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=totallyrin&theme=github_dark)
   <a href="https://github.com/totallyrin">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=totallyrin&theme=github_dark" />
   </a>

@@ -7,7 +7,7 @@
 
 ### About Me:
 
-- 🌱 I’m a student studying Software Design
+- 🌱 I’m a Canadian student studying Software Design
 - 🔭 I’m currently working on my Web Development skills
 - 💬 I love programming, gaming, and snowboarding
 - ⚡ Currently focusing on JavaScript and Typescript

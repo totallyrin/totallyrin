@@ -4,7 +4,7 @@
 </div>
 
 ---
-
+<!--
 ### About Me:
 
 - 🌱 I’m a Canadian student studying Software Design
@@ -12,7 +12,7 @@
 - 💬 I love programming, gaming, and snowboarding
 - ⚡ Currently focusing on JavaScript and Typescript
 
----
+--- -->
 ### Languages
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/totallyrin)
 [![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://github.com/totallyrin)

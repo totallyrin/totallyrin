@@ -24,6 +24,7 @@
 
 [![NextJS](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js)](https://github.com/totallyrin)
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/totallyrin)
+[![MongoDB](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)](https://github.com/totallyrin)
 [![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/totallyrin)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/totallyrin)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/totallyrin)

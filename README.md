@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  👋 Hi! I'm totallyrin (she/her).
+  👋 Hi! I'm totallyrin.
   <br/><br/><a href="https://github.com/totallyrin"><img src="https://komarev.com/ghpvc/?username=totallyrin&style=flat-square&color=blue" alt=""/></a>
 </div>
 

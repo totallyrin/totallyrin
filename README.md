@@ -1,5 +1,6 @@
 <div id="header" align="center">
   👋 Hi! I'm totallyrin.
+  <br/><br/>[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U11I2C5K)
   <br/><br/><a href="https://github.com/totallyrin"><img src="https://komarev.com/ghpvc/?username=totallyrin&style=flat-square&color=blue" alt=""/></a>
 </div>
 

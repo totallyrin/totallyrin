@@ -1,9 +1,10 @@
 <div id="header" align="center">
+  <a href="https://github.com/totallyrin"><img src="https://komarev.com/ghpvc/?username=totallyrin&style=flat-square&color=blue" alt=""/></a><br/><br/>
   👋 Hi! I'm totallyrin.
-  <br/><br/><a href="https://github.com/totallyrin"><img src="https://komarev.com/ghpvc/?username=totallyrin&style=flat-square&color=blue" alt=""/></a>
+  <br/><br/><a href='https://ko-fi.com/U7U11I2C5K' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U11I2C5K)
+<!-- [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U11I2C5K) -->
 
 ---
 <!--
